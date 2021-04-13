@@ -1,2 +1,2 @@
 # aula_javascript2
-Introdução ao Javacript
+Introdução ao Javascript
